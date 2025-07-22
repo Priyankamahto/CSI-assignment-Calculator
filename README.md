@@ -21,5 +21,4 @@ This is a simple **Basic Calculator** web application built using **HTML, CSS, a
 - **CSS** – For styling the calculator
 - **JavaScript** – For implementing the logic and interactivity
 
-## 📁 Project Structure
 
